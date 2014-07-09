@@ -69,3 +69,8 @@ Virtuals
 - VMware Player
 - VMware Workstation
 - Parallels Desktop (только Mac OS X)
+
+Полезные ссылки
+---
+
+- https://bitnami.com/
