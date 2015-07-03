@@ -1,4 +1,4 @@
-Etnernet
+Ethernet
 ---
 
 - 10Mbit
